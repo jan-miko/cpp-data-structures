@@ -1,6 +1,6 @@
 #include <iostream>
 int main() {
-    std::cout << "Mission Control is ready!" << std::endl;
+    std::cout << "Mission Control is not ready!" << std::endl;
     return 0;
 }// TIP See CLion help at <a
 // href="https://www.jetbrains.com/help/clion/">jetbrains.com/help/clion/</a>.
